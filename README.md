@@ -11,12 +11,12 @@ Este é um simples aplicativo Java que cumprimenta o usuário com base na hora d
 
 ## Uso 📋
 
-    1. Compile e execute o código Java no seu ambiente de desenvolvimento.
-    2. O programa irá cumprimentá-lo com base na hora do dia atual e mostrar o dia da semana.
+1. Compile e execute o código Java no seu ambiente de desenvolvimento.
+2. O programa irá cumprimentá-lo com base na hora do dia atual e mostrar o dia da semana.
 
 ## Exemplo de Saída 📢
 
-Olá, [Nome]. Hoje é [Dia da Semana], [Saudação]. ☀️
+Olá, `[Nome]`. Hoje é `[Dia da Semana]`, `[Saudação]`. ☀️
 
 ## Requisitos 📦
 
